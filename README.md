@@ -4,4 +4,4 @@ Black-Box Optimization capstone project for the [Professional Certificate in Mac
 
 ## Overview
 
-This project explores **black-box optimization (BBO)
+This project explores the use of black-box optimization (BBO)
